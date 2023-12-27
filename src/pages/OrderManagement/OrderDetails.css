@@ -1,0 +1,16 @@
+.order-details{
+    border: 1px solid black;
+    height: 48vh;
+    border-radius: 5px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+.container{
+    padding: 0rem 3rem;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

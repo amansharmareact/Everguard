@@ -1,0 +1,9 @@
+.customButton {
+  cursor: pointer;
+  font-size: 1rem;
+  display: flex;
+  gap: 0.5rem;
+}
+.customButton:hover {
+  background-color: aliceblue;
+}

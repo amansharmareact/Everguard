@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/adminPanel/static/css/main.0c81da7e.chunk.css",
+    "main.js": "/adminPanel/static/js/main.d44eab2f.chunk.js",
+    "main.js.map": "/adminPanel/static/js/main.d44eab2f.chunk.js.map",
+    "runtime-main.js": "/adminPanel/static/js/runtime-main.ed0bf151.js",
+    "runtime-main.js.map": "/adminPanel/static/js/runtime-main.ed0bf151.js.map",
+    "static/css/2.9b8891a8.chunk.css": "/adminPanel/static/css/2.9b8891a8.chunk.css",
+    "static/js/2.b4bb9529.chunk.js": "/adminPanel/static/js/2.b4bb9529.chunk.js",
+    "static/js/2.b4bb9529.chunk.js.map": "/adminPanel/static/js/2.b4bb9529.chunk.js.map",
+    "index.html": "/adminPanel/index.html",
+    "static/css/2.9b8891a8.chunk.css.map": "/adminPanel/static/css/2.9b8891a8.chunk.css.map",
+    "static/css/main.0c81da7e.chunk.css.map": "/adminPanel/static/css/main.0c81da7e.chunk.css.map",
+    "static/js/2.b4bb9529.chunk.js.LICENSE.txt": "/adminPanel/static/js/2.b4bb9529.chunk.js.LICENSE.txt",
+    "static/media/katex.css": "/adminPanel/static/media/KaTeX_Typewriter-Regular.c5c02d76.ttf",
+    "static/media/haydiSupermarket.77ec0d0a.png": "/adminPanel/static/media/haydiSupermarket.77ec0d0a.png",
+    "static/media/homeBack.png": "/adminPanel/static/media/homeBack.dea0c195.png",
+    "static/media/homeBg.919c2da7.png": "/adminPanel/static/media/homeBg.919c2da7.png",
+    "static/media/loginImage.1cee621a.jpg": "/adminPanel/static/media/loginImage.1cee621a.jpg",
+    "static/media/property-image.fa33f9fe.png": "/adminPanel/static/media/property-image.fa33f9fe.png",
+    "static/media/slick-theme.css": "/adminPanel/static/media/slick.c94f7671.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ed0bf151.js",
+    "static/css/2.9b8891a8.chunk.css",
+    "static/js/2.b4bb9529.chunk.js",
+    "static/css/main.0c81da7e.chunk.css",
+    "static/js/main.d44eab2f.chunk.js"
+  ]
+}

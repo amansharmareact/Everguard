@@ -1,0 +1,57 @@
+.view-container{
+
+   margin-left:2rem;
+    width: 95%;
+    height: 100%;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: black;
+}
+.subs-container{
+    
+    width: 50%;
+    margin: auto;
+    padding: 30px;
+    /* background-color: red; */
+  
+
+}
+.plan-name{
+    margin-bottom: 30px;
+    display: flex;
+    justify-content: space-between;
+}
+.features-pack-list{
+    display: flex;
+    flex-direction: column;
+    /* border: 1px solid black; */
+    /* padding:3px; */
+}
+.buttons{
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-around;
+}
+
+
+.button-2 {
+  background-color: rgba(51, 51, 51, 0.05);
+  border: 1px solid black;
+  border-radius: 8px;
+  color: #333333;
+  cursor: pointer;
+  display: inline-block;
+  font-family: "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 20px;
+  list-style: none;
+  margin: 0;
+  padding: 10px 12px;
+  text-align: center;
+  transition: all 200ms;
+  vertical-align: baseline;
+  white-space: nowrap;
+}

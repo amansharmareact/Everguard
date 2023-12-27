@@ -1,0 +1,92 @@
+.view-container{
+  margin: 20px;
+  width: 97%;
+  height: 100%;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+  background-color: white;
+  color: black;
+}
+.subs-container{
+  
+  width: 50%;
+  margin: auto;
+  padding: 30px;
+  /* background-color: red; */
+
+
+}
+.plan-name{
+  margin-bottom: 30px;
+  display: flex;
+  justify-content: space-between;
+}
+.features-pack-list{
+  display: flex;
+  flex-direction: column;
+  /* border: 1px solid black; */
+  /* padding:3px; */
+}
+.buttons{
+  margin-top: 50px;
+  display: flex;
+  justify-content: space-around;
+}
+
+
+.button-2 {
+background-color: rgba(51, 51, 51, 0.05);
+border: 1px solid black;
+border-radius: 8px;
+color: #333333;
+cursor: pointer;
+display: inline-block;
+font-family: "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
+font-size: 14px;
+font-weight: 500;
+line-height: 20px;
+list-style: none;
+margin: 0;
+padding: 10px 12px;
+text-align: center;
+transition: all 200ms;
+vertical-align: baseline;
+white-space: nowrap;
+}
+
+.modal-container {
+  /* display: none;  */
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.2); /* Semi-transparent overlay */
+  justify-content: center;
+  align-items: center;
+  z-index: 99999;
+ 
+}
+
+/* Modal Content */
+.modal-content {
+  background: #fff; /* White background */
+  padding: 10px 20px 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3); /* Shadow for depth */
+  max-width: 42%;
+  max-height: 80%;
+  overflow: auto;
+  top:44%;
+  left:30%
+}
+
+/* Show the modal when the container has the "show" class */
+.modal-container.show {
+  display: flex;
+}
+.close{
+  width: 100%;
+  display: flex;
+  justify-content: end;
+
+}
